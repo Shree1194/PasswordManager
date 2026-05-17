@@ -24,3 +24,14 @@ A console-based **Password Manager** application that allows users to securely s
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/your-username/password-manager-python.git](https://github.com/your-username/password-manager-python.git)
+
+---
+
+## 🛡️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+
+## 👨‍💻 Author
+
+**Aadesh Kapadnis** | [LinkedIn](https://linkedin.com/in/aadesh-kapadnis) | [GitHub](https://github.com/Shree1194)
